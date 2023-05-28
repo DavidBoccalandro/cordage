@@ -1,19 +1,20 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
-import { Glossary } from '../pages/glossary/Glossary'
-import { Home } from '../pages/home/Home'
-import { Log } from '../pages/log/Log'
-import { Users } from '../pages/users/Users'
+import { Glossary, Home, Log, Users } from '../pages'
+import { MainContainer, Navbar } from '../components'
 
 function AppRouter() {
   return (
     <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/users" element={<Users />} />
-        <Route path="/glossary" element={<Glossary />} />
-        <Route path="/log" element={<Log />} />
-        <Route path="*" element={<Navigate to="/glossary" replace />} />
-      </Routes>
+      <Navbar />
+      <MainContainer>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/users" element={<Users />} />
+          <Route path="/glossary" element={<Glossary />} />
+          <Route path="/log" element={<Log />} />
+          <Route path="*" element={<Navigate to="/glossary" replace />} />
+        </Routes>
+      </MainContainer>
     </Router>
   )
 }

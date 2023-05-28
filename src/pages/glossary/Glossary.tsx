@@ -1,5 +1,11 @@
-export const Glossary  = () => {
+import { GlossaryCardList, GlossaryHero, GlossaryPagination } from "./components";
+
+export const Glossary = () => {
   return (
-    <div>Glossary Component</div>
+    <div>
+      <GlossaryHero />
+      <GlossaryPagination />
+      <GlossaryCardList />
+    </div>
   );
 };
