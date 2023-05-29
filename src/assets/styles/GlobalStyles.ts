@@ -1,7 +1,26 @@
 import { createGlobalStyle } from 'styled-components';
+import globalStyles from './configStyles.json';
 
 export const GlobalStyleCordage = createGlobalStyle`
     
+    :root {
+    ${Object.entries(globalStyles.fonts)
+			.map(([key, value]) => `${key}: ${value};`)
+			.join('\n')}
+
+    ${Object.entries(globalStyles.fontSizes)
+			.map(([key, value]) => `${key}: ${value};`)
+			.join('\n')}
+
+    ${Object.entries(globalStyles.colors)
+			.map(([key, value]) => `${key}: ${value};`)
+			.join('\n')}
+
+    ${Object.entries(globalStyles.spaces)
+			.map(([key, value]) => `${key}: ${value};`)
+			.join('\n')}
+    }
+
     @font-face {
     font-family: 'Satoshi-Variable';
     src: url('./fonts/Satoshi-Variable.woff2') format('woff2'),
