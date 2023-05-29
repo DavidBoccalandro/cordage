@@ -1,30 +1,48 @@
 import { useState, useEffect } from "react";
-import axios from "axios";
+import { getDataGlossary } from "../../../../services/axios/axios";
 import { GlossaryCard } from "./GlossaryCard";
+import styled from "styled-components";
+
+const GlossaryCardListContainer = styled.div`
+  padding: 32px 16px;
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+`;
 
 export const GlossaryCardList = () => {
   const [glossaryData, setGlossaryData] = useState([]);
 
   useEffect(() => {
-    // Lógica para obtener los datos de la API
     const fetchData = async () => {
-      try {
-        const response = await axios.get('../../../../../server/dataGlossaryTT.json');
-        setGlossaryData(response.data);
-      } catch (error) {
-        console.error("Error al obtener los datos del glosario:", error);
+      const data = await getDataGlossary();
+      if (data) {
+        setGlossaryData(data);
       }
     };
 
     fetchData();
   }, []);
 
+  function getUniqueLetters(data) {
+    const lettersSet = new Set();
+    data.forEach((cardData) => {
+      const firstLetter = cardData.term.charAt(0).toUpperCase();
+      lettersSet.add(firstLetter);
+    });
+    return Array.from(lettersSet).sort();
+  }
+
   return (
-    <div>
-      {glossaryData.map((cardData) => (
-        console.log(cardData),
-        <GlossaryCard key={cardData.glossary_term_id} terms={cardData.glossary_sets} />
+    <GlossaryCardListContainer>
+      {getUniqueLetters(glossaryData).map((letter) => (
+        <GlossaryCard
+          key={letter}
+          letter={letter}
+          cardData={glossaryData.filter(
+            (cardData) => cardData.term.charAt(0).toUpperCase() === letter
+          )}
+        />
       ))}
-    </div>
+    </GlossaryCardListContainer>
   );
 };
