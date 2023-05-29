@@ -193,4 +193,7 @@ export const GlobalStyleCordage = createGlobalStyle`
         font-size: 62.5%; 
     } 
     
+    body {
+        background: var(--slate50);
+    }
 `;

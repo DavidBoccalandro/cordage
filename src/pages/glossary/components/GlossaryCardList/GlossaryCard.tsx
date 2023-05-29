@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { GlossaryTerm } from "./GlossaryTerm";
 
 const GlossaryCardContainer = styled.div`
   display: flex;
@@ -8,21 +9,23 @@ const GlossaryCardContainer = styled.div`
 
 const GlossaryCardLetter = styled.div`
   padding: 0 8px;
-  width: 41px;
+  width: 38px;
   height: 41px;
 
   span {
     font-family: 'Lora';
+    font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 41px;
-    color: #262626;
+    color: var(--neutral800);
+    margin: 8px 16px;
   }
 `;
 
 const GlossaryTermsContainer = styled.div`
   column-count: 4;
-  column-gap: 16px;
+  gap: 16px;
 `;
 
 export const GlossaryCard = ({ cardData }) => {
@@ -56,9 +59,9 @@ export const GlossaryCard = ({ cardData }) => {
           </GlossaryCardLetter>
           <GlossaryTermsContainer>
             {letterTerms.map((term) => (
-              <div key={term.id}>
-                <h3>{term.term}</h3>
-              </div>
+              <GlossaryTerm key={term.id}>
+                <span>{term.term}</span>
+              </GlossaryTerm>
             ))}
           </GlossaryTermsContainer>
         </>
