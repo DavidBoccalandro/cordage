@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import { GlossaryTerm } from "./GlossaryTerm";
+import { Element } from 'react-scroll';
+import { ResponseItem } from "../../../../services/glossary.interface";
 
 const GlossaryCardContainer = styled.div`
   display: flex;
@@ -28,44 +30,27 @@ const GlossaryTermsContainer = styled.div`
   gap: 16px;
 `;
 
-export const GlossaryCard = ({ cardData }) => {
-  const termsByLetter = groupTermsByLetter(cardData);
+interface IGlossaryCardProps {
+  cardData: ResponseItem[] | undefined,
+  letter: string,
+}
 
-  function groupTermsByLetter(data) {
-    const termsByLetter = {};
-
-    for (const key in data) {
-      if (data.hasOwnProperty(key)) {
-        const card = data[key];
-        const firstLetter = card.term.charAt(0).toUpperCase();
-
-        if (termsByLetter.hasOwnProperty(firstLetter)) {
-          termsByLetter[firstLetter].push(card);
-        } else {
-          termsByLetter[firstLetter] = [card];
-        }
-      }
-    }
-
-    return termsByLetter;
-  }
+export const GlossaryCard = ({ cardData, letter }: IGlossaryCardProps) => {
 
   return (
     <GlossaryCardContainer>
-      {Object.entries(termsByLetter).map(([letter, letterTerms]) => (
-        <>
-          <GlossaryCardLetter>
-            <span>{letter}</span>
-          </GlossaryCardLetter>
-          <GlossaryTermsContainer>
-            {letterTerms.map((term) => (
-              <GlossaryTerm key={term.id}>
-                <span>{term.term}</span>
-              </GlossaryTerm>
-            ))}
-          </GlossaryTermsContainer>
-        </>
-      ))}
+      <Element key={letter} name={letter}>
+        <GlossaryCardLetter>
+          <span>{letter}</span>
+        </GlossaryCardLetter>
+        <GlossaryTermsContainer>
+          {cardData?.map((item) => (
+            <GlossaryTerm key={item.id}>
+              <span>{item.term}</span>
+            </GlossaryTerm>
+          ))}
+        </GlossaryTermsContainer>
+      </Element>
     </GlossaryCardContainer>
   );
 };
