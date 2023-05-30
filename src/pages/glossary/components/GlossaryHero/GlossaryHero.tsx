@@ -51,7 +51,7 @@ const GlossaryHeroBody = styled.div`
   display: flex;
   justify-content: space-between;
 
-  img {
+  img[alt="Hero Image"] {
     margin: 0 calc(133.94px - 24px) calc(38.77px - 25px) 0;
   }
 `;
