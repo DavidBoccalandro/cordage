@@ -1,49 +1,56 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useContext } from "react";
 import { GlossaryCardList, GlossaryHero, GlossaryPagination, GlossaryTermDefinition } from "./components";
-import { glossaryService } from "../../services/glossaryService.service";
-import { createGlossaryMap } from "../../utils/glossaryMap.constant";
 import { ResponseItem } from "../../services/glossary.interface";
+import { glossaryContext } from "../../context/glossaryContext";
 
 export const Glossary = () => {
   const [activeLetter, setActiveLetter] = useState<string | null>(null);
   const [glossaryState, setGlossaryState] = useState<Map<string, ResponseItem[]>>();
-  const buildGlossary = useCallback((data: ResponseItem[]) => {
-    const copyGlossaryMap = createGlossaryMap();
+  const [searchInput, setSearchInput] = useState<string>('');
+  const { glossary } = useContext(glossaryContext);
 
-    data.forEach((item) => {
-      const firstLetter = item.term.charAt(0).toUpperCase();
-      if (!copyGlossaryMap.has(firstLetter)) {
-        copyGlossaryMap.set(firstLetter, []);
-      }
-      copyGlossaryMap.get(firstLetter).push(item);
-    });
-    setGlossaryState(copyGlossaryMap);
-  }, []);
+  useEffect(() => {
+    setGlossaryState(glossary);
+    createFilterState();
+  }, [searchInput, glossary])
+
+  useEffect(() => {
+    setActiveLetter(null);
+  }, [searchInput]);
 
   function handlePaginationHandleClick(letter: string) {
     setActiveLetter(letter);
   }
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const data = await glossaryService();
-      if (data) {
-        buildGlossary(data);
-      }
-    };
+  function createFilterState() {
+    if (!glossary) return;
 
-    fetchData();
-  }, []);
+    if (searchInput === '') {
+      setGlossaryState(glossary);
+      return;
+    }
+
+    const filteredGlossary = new Map<string, ResponseItem[]>();
+
+    for (const [letter, items] of glossary.entries()) {
+      const filteredItems = items.filter((item) =>
+        item.term.toLowerCase().includes(searchInput.toLowerCase())
+      );
+      filteredGlossary.set(letter, filteredItems);
+    }
+
+    setGlossaryState(filteredGlossary);
+  }
 
   return (
     <>
-      <GlossaryHero />
+      <GlossaryHero setSearchInput={setSearchInput} />
       {
         glossaryState?.keys() ?
           (
             <>
               <GlossaryPagination
-                alphabet={Array.from(glossaryState?.keys())}
+                alphabet={glossary ? Array.from(glossary.keys()) : []}
                 activeLetter={activeLetter}
                 handleClick={handlePaginationHandleClick}
               />

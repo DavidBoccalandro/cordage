@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { ChangeEvent, useRef } from "react";
 import styled from "styled-components";
 import heroImage from "/src/assets/images/hero-image.png";
 import searchbarIcon from "/src/assets/icons/MagnifyingGlass.svg";
@@ -108,11 +108,20 @@ const SearchbarInputContainer = styled.div`
   }
 `;
 
-export const GlossaryHero = () => {
-  const inputRef = useRef(null);
+interface IGlossaryHeroProps {
+  setSearchInput: (searchValue: string) => void
+}
+
+export const GlossaryHero = ({ setSearchInput }: IGlossaryHeroProps) => {
+  const inputRef = useRef<HTMLInputElement | null>(null);
 
   const handleClick = () => {
     inputRef.current?.focus();
+  };
+
+  const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
+    const searchValue = e.target.value;
+    setSearchInput(searchValue);
   };
 
   return (
@@ -128,7 +137,7 @@ export const GlossaryHero = () => {
           <p>If you need clarification on a word or just want to brush up on your team knowledge, our glossary is here for you.</p>
           <SearchbarInputContainer onClick={handleClick}>
             <img src={searchbarIcon} alt="Searchbar Icon" />
-            <input ref={inputRef} type="search" placeholder="Search Words by name or keyword..." />
+            <input onChange={handleInputChange} ref={inputRef} type="search" placeholder="Search Words by name or keyword..." />
           </SearchbarInputContainer>
         </SearchbarContainer>
         <img src={heroImage} alt="Hero Image" />
