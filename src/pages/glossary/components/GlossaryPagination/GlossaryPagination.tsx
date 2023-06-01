@@ -1,30 +1,52 @@
-import { Link } from 'react-scroll';
 import styled from 'styled-components';
 
-const GlossaryPaginationContainer = styled.div`
+const GlossaryPaginationContainer = styled.ul`
 	position: sticky;
 	top: 0;
 	display: flex;
 	justify-content: center;
 	margin-bottom: 24px;
-
-	button.active {
-		background: var(--orange600);
-		color: var(--white);
-	}
+	list-style: none;
 `;
 
-const LetterContainer = styled.button`
+const LetterContainer = styled.li`
 	width: 36px;
 	height: 36px;
 	border: none;
 	border-radius: 50%;
 	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-color: var(--slate50);
 
-	:disabled {
+	a {
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 14px;
+		line-height: 19px;
+		color: var(--neutral500);
+	}
+
+	&.active {
+		background: var(--orange600);
+
+		a {
+			color: var(--white);
+		}
+	}
+
+	&.disabled {
 		opacity: 0.5;
-		cursor: not-allowed;
+		pointer-events: none;
+	}
+
+	&:hover:not(.active) {
+		background: var(--orange200);
+
+		a {
+			color: var(--neutral400);
+		}
 	}
 `;
 
@@ -44,16 +66,13 @@ export const GlossaryPagination = ({
 	return (
 		<GlossaryPaginationContainer>
 			{alphabet.map((letter: string) => (
-				<Link key={`link-${letter}`} to={letter} spy={true} smooth={true} offset={50} duration={500}>
-					<LetterContainer
-						disabled={disabledLetters.includes(letter)}
-						className={activeLetter === letter ? 'active' : ''}
-						onClick={() => handleClick(letter)}
-						key={`letter-${letter}`}
-					>
-						{letter}
-					</LetterContainer>
-				</Link>
+				<LetterContainer
+					className={`${activeLetter === letter ? 'active' : ''} ${disabledLetters.includes(letter) ? 'disabled' : ''}`}
+					onClick={() => handleClick(letter)}
+					key={`letter-${letter}`}
+				>
+					<a href={`#title-${letter}`}>{letter}</a>
+				</LetterContainer>
 			))}
 		</GlossaryPaginationContainer>
 	);

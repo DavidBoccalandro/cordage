@@ -27,16 +27,16 @@ export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 	const [hasEnoughXSpace, setHasEnoughXSpace] = useState(true);
 	const [hasEnoughYSpace, setHasEnoughYSpace] = useState(true);
 
-	const handleClick = (e) => {
+	const handleOpenTermDefinition = (e) => {
 		const rect = e.target.getBoundingClientRect();
 		setTermCoordinates({ left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom });
 		const rectMinusXPadding = rect.left - 16;
 		const rectMinusYPadding = rect.bottom - 8;
 		const remainingXSpace = window.innerWidth - rectMinusXPadding;
 		const remainingYSpace = window.innerHeight - rectMinusYPadding;
-		console.log('remainingXSpace', remainingXSpace)
-		console.log('remainingYSpace', remainingYSpace)
-		console.log('scroll height', document.body.scrollHeight)
+		console.log('remainingXSpace', remainingXSpace);
+		console.log('remainingYSpace', remainingYSpace);
+		console.log('scroll height', document.body.scrollHeight);
 
 		if (remainingXSpace < 526) {
 			setHasEnoughXSpace(false);
@@ -58,12 +58,11 @@ export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 
 	return (
 		<>
-			<GlossaryTermContainer onClick={handleClick}>
+			<GlossaryTermContainer onClick={handleOpenTermDefinition}>
 				<p>{termDefinition.term}</p>
 			</GlossaryTermContainer>
-			{termDefinition && showTermDefinition && (
+			{showTermDefinition && (
 				<GlossaryTermDefinition
-					className="animate__animated animate__fadeInDown"
 					handleCloseTermDefinition={handleCloseTermDefinition}
 					selectedTerm={termDefinition}
 					termCoordinates={termCoordinates}

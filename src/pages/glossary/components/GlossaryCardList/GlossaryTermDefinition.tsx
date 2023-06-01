@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
 import EditIcon from '/src/assets/icons/EditIcon.svg';
 import DeleteIcon from '/src/assets/icons/DeleteIcon.svg';
 import { ResponseItem } from '../../../../services/glossary.interface';
@@ -12,10 +12,20 @@ const BackDrop = styled.div`
 	background-color: transparent;
 `;
 
+const termDefinitionEnter = keyframes`
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+`;
+
 const TermDefinitionContainer = styled.div<{
 	modalPosition: { left: number; top: number; right: number; bottom: number };
 	hasEnoughXSpace: boolean;
 	hasEnoughYSpace: boolean;
+	showTermDefinition: boolean;
 }>`
 	position: absolute;
 	display: flex;
@@ -33,7 +43,9 @@ const TermDefinitionContainer = styled.div<{
 	left: ${({ modalPosition, hasEnoughXSpace }) => hasEnoughXSpace && `${modalPosition.left}px}`};
 	right: ${({ modalPosition, hasEnoughXSpace }) => !hasEnoughXSpace && `${window.innerWidth - modalPosition.right}px`};
 	top: ${({ modalPosition, hasEnoughYSpace }) => hasEnoughYSpace && `${modalPosition.bottom}px`};
-	bottom: ${({ modalPosition, hasEnoughYSpace }) => !hasEnoughYSpace && `${window.innerHeight - (modalPosition.top)}px}`};
+	bottom: ${({ modalPosition, hasEnoughYSpace }) => !hasEnoughYSpace && `${window.innerHeight - modalPosition.top}px}`};
+
+	animation: ${termDefinitionEnter} 300ms ease-in;
 `;
 
 const TermDefinitionHeader = styled.div`

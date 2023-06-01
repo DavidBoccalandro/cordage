@@ -23,6 +23,10 @@ const GlossaryCardLetter = styled.div`
 		color: var(--neutral800);
 		margin: 8px 16px;
 	}
+
+	&.active-card span {
+		color: var(--orange600);
+	}
 `;
 
 const GlossaryTermsContainer = styled.div`
@@ -33,20 +37,22 @@ const GlossaryTermsContainer = styled.div`
 interface IGlossaryCardProps {
 	cardData: ResponseItem[] | undefined;
 	letter: string;
+	activeLetter: string | null;
 }
 
-export const GlossaryCard = ({ cardData, letter }: IGlossaryCardProps) => {
+export const GlossaryCard = ({ cardData, letter, activeLetter }: IGlossaryCardProps) => {
 	return (
 		<GlossaryCardContainer>
 			<Element key={letter} name={letter}>
-				<GlossaryCardLetter>
+				<GlossaryCardLetter
+					id={`title-${letter}`}
+					className={activeLetter === letter ? 'active-card' : 'inactive-card'}
+				>
 					<span>{letter}</span>
 				</GlossaryCardLetter>
 				<GlossaryTermsContainer>
 					{cardData?.map((item) => (
-						<GlossaryTerm key={item.id} termDefinition={item}>
-							<span>{item.term}</span>
-						</GlossaryTerm>
+						<GlossaryTerm key={item.id} termDefinition={item} />
 					))}
 				</GlossaryTermsContainer>
 			</Element>

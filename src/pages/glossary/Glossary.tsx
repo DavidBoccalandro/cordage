@@ -1,11 +1,11 @@
-import { useState, useEffect, useContext, useCallback, ChangeEvent } from 'react';
+import { useState, useEffect, useContext, useCallback } from 'react';
 import { GlossaryCardList, GlossaryHero, GlossaryPagination } from './components';
 import { ResponseItem } from '../../services/glossary.interface';
 import { glossaryContext } from '../../context/glossaryContext';
 import { debounce } from 'lodash';
 
 export const Glossary = () => {
-	const [activeLetter, setActiveLetter] = useState<string | null>(null);
+	const [activeLetter, setActiveLetter] = useState<string>('A');
 	const [glossaryState, setGlossaryState] = useState<Map<string, ResponseItem[]>>();
 	const { glossary } = useContext<{ glossary: Map<string, ResponseItem[]> | undefined }>(glossaryContext);
 	const createFilterState = useCallback(
@@ -13,6 +13,7 @@ export const Glossary = () => {
 			if (!glossary) return;
 
 			if (searchString === '') {
+				setActiveLetter('A');
 				setGlossaryState(glossary);
 				return;
 			}
@@ -21,8 +22,13 @@ export const Glossary = () => {
 
 			for (const [letter, items] of glossary.entries()) {
 				const filteredItems = items.filter((item) => item.term.toLowerCase().includes(searchString.toLowerCase()));
-				filteredGlossary.set(letter, filteredItems);
+
+				if (filteredItems.length) {
+					filteredGlossary.set(letter, filteredItems);
+				}
 			}
+
+			setActiveLetter(filteredGlossary.keys().next().value);
 			setGlossaryState(filteredGlossary);
 		},
 		[glossary]
@@ -36,7 +42,7 @@ export const Glossary = () => {
 	);
 	useEffect(() => {
 		setGlossaryState(glossary);
-		setActiveLetter(null);
+		setActiveLetter('A');
 		createFilterState('');
 	}, [glossary, createFilterState]);
 
@@ -57,7 +63,7 @@ export const Glossary = () => {
 							glossary ? Array.from(glossary.keys()).filter((letter) => !glossary.get(letter)?.length) : []
 						}
 					/>
-					<GlossaryCardList glossary={glossaryState} />
+					<GlossaryCardList glossary={glossaryState} activeLetter={activeLetter} />
 				</>
 			) : (
 				'Loading...'
