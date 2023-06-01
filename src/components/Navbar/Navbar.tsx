@@ -6,6 +6,7 @@ const NavbarContainer = styled.nav`
   align-items: center;
   justify-content: space-between;
   padding: 16px;
+  margin-bottom: 36px;
   background-color: var(--white);
   height: 64px;
   border-width: 1px 0px;

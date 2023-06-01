@@ -1,5 +1,3 @@
 export const Log = () => {
-  return (
-    <div>Log Component</div>
-  );
+	return <h1>Log Component</h1>;
 };

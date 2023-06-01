@@ -1,5 +1,3 @@
-export const Users  = () => {
-  return (
-    <div>Users Component</div>
-  );
+export const Users = () => {
+	return <h1>Users Component</h1>;
 };

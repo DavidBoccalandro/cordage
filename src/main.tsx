@@ -6,7 +6,7 @@ import { GlobalStyleCordage } from './assets/styles/GlobalStyles.ts'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <GlobalStyleCordage/>
+    <GlobalStyleCordage />
     <App />
   </React.StrictMode>,
 )
