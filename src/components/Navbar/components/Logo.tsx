@@ -1,14 +1,10 @@
-import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 import logoIcon from '/src/assets/icons/Logo.svg';
-
-const LogoContainer = styled.div`
-  /* Estilos para el dropdown de idioma */
-`;
 
 export const Logo = () => {
   return (
-    <LogoContainer>
+    <Link to="/glossary">
       <img src={logoIcon} alt="Logo" />
-    </LogoContainer>
+    </Link>
   );
 };

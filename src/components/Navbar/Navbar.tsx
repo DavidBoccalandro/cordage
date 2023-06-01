@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Logo, NavButton, ProfileAvatar } from './components';
+import { Logo, NavButton, ProfileAvatar, LanguageDropdown } from './components';
 
 const NavbarContainer = styled.nav`
   display: flex;
@@ -31,11 +31,11 @@ export const Navbar = () => {
       <NavButtonsContainer>
         <NavButton to="/">Home</NavButton>
         <NavButton to="/users">Users</NavButton>
-        <NavButton to="/glossary" isSelected>Glossary</NavButton>
+        <NavButton to="/glossary">Glossary</NavButton>
         <NavButton to="/log">Log</NavButton>
       </NavButtonsContainer>
       <ProfileContainer>
-        {/* <LanguageDropdown /> */}
+        <LanguageDropdown />
         <ProfileAvatar src="" alt="" />
       </ProfileContainer>
     </NavbarContainer>
