@@ -1,8 +1,9 @@
 import { ChangeEvent, useRef } from 'react';
 import styled from 'styled-components';
+
+import { Divider } from '../../../../components';
 import heroImage from '/src/assets/images/hero-image.png';
 import searchbarIcon from '/src/assets/icons/MagnifyingGlass.svg';
-import { Divider } from '../../../../components';
 
 const GlossaryHeroContainer = styled.div`
 	margin-bottom: 24px;
@@ -114,19 +115,18 @@ const SearchbarInputContainer = styled.div`
 `;
 
 interface IGlossaryHeroProps {
-	setSearchInput: (searchValue: string) => void;
+	startSearch: (searchValue: string) => void;
 }
 
-export const GlossaryHero = ({ setSearchInput }: IGlossaryHeroProps) => {
-	const inputRef = useRef<HTMLInputElement | null>(null);
+export const GlossaryHero = ({ startSearch }: IGlossaryHeroProps) => {
+	const searchInputRef = useRef<HTMLInputElement | null>(null);
 
 	const handleClick = () => {
-		inputRef.current?.focus();
+		searchInputRef.current?.focus();
 	};
 
 	const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
-		const searchValue = e.target.value;
-		setSearchInput(searchValue);
+		startSearch(e.target.value);
 	};
 
 	return (
@@ -147,7 +147,7 @@ export const GlossaryHero = ({ setSearchInput }: IGlossaryHeroProps) => {
 						<img src={searchbarIcon} alt="Searchbar Icon" />
 						<input
 							onChange={handleInputChange}
-							ref={inputRef}
+							ref={searchInputRef}
 							type="search"
 							placeholder="Search Words by name or keyword..."
 						/>

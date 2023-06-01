@@ -83,10 +83,16 @@ const languages = [
   { code: 'es', name: 'Spanish', src: Spain },
 ];
 
+interface Language {
+  code: string;
+  name: string;
+  src: string;
+}
+
 export const LanguageDropdown = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [selectedLanguage, setSelectedLanguage] = useState(languages[0]);
-  const dropdownRef = useRef(null);
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     document.addEventListener('mousedown', handleClickOutside);
@@ -99,13 +105,13 @@ export const LanguageDropdown = () => {
     setIsOpen(!isOpen);
   };
 
-  const selectLanguage = (language) => {
+  const selectLanguage = (language: Language) => {
     setSelectedLanguage(language);
     setIsOpen(false);
   };
 
-  const handleClickOutside = (event) => {
-    if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+  const handleClickOutside = (event: MouseEvent) => {
+    if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
       setIsOpen(false);
     }
   };
