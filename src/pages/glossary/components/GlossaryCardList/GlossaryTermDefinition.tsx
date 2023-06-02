@@ -22,10 +22,9 @@ const termDefinitionEnter = keyframes`
 `;
 
 const TermDefinitionContainer = styled.div<{
-	modalPosition: { left: number; top: number; right: number; bottom: number };
+	modalPosition: { left: number; height: number; right: number; yPos: number };
 	hasEnoughXSpace: boolean;
 	hasEnoughYSpace: boolean;
-	showTermDefinition: boolean;
 }>`
 	position: absolute;
 	display: flex;
@@ -34,57 +33,60 @@ const TermDefinitionContainer = styled.div<{
 	max-height: 370px;
 	background: var(--white);
 	border-radius: 8px;
-	box-shadow: 0px 20px 25px -5px #0000001a;
 	box-shadow: 0px 8px 10px -6px #0000001a;
 	overflow-y: auto;
 	padding: 16px 24px 24px 24px;
 	gap: 16px;
 	z-index: 7;
-	left: ${({ modalPosition, hasEnoughXSpace }) => hasEnoughXSpace && `${modalPosition.left}px}`};
+	left: ${({ modalPosition, hasEnoughXSpace }) => hasEnoughXSpace && `${modalPosition.left}px;`};
 	right: ${({ modalPosition, hasEnoughXSpace }) => !hasEnoughXSpace && `${window.innerWidth - modalPosition.right}px`};
-	top: ${({ modalPosition, hasEnoughYSpace }) => hasEnoughYSpace && `${modalPosition.bottom}px`};
-	bottom: ${({ modalPosition, hasEnoughYSpace }) => !hasEnoughYSpace && `${window.innerHeight - modalPosition.top}px}`};
+	top: ${({ modalPosition, hasEnoughYSpace }) => hasEnoughYSpace && `${modalPosition.yPos + modalPosition.height + 8}px`};
+	bottom: ${({ modalPosition, hasEnoughYSpace }) => {
+		if (hasEnoughYSpace) return;
+		const result = modalPosition.yPos - window.innerHeight;
+		return `${(result * -1) + 8}px;`;
+	}};
 
 	animation: ${termDefinitionEnter} 300ms ease-in;
 `;
 
 const TermDefinitionHeader = styled.div`
-	display: flex;
-	flex-direction: column;
-	gap: 8px;
+display: flex;
+flex-direction: column;
+gap: 8px;
 
 	.header-title {
-		display: flex;
-		justify-content: space-between;
-		margin-top: 4px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 4px;
 
 		h2 {
-			font-weight: 700;
-			font-size: 24px;
-			line-height: 32px;
-			margin-top: 2px;
-		}
+		font-weight: 700;
+		font-size: 24px;
+		line-height: 32px;
+		margin-top: 2px;
+	}
 
-		div.edition-buttons img {
-			cursor: pointer;
+	div.edition-buttons img {
+		cursor: pointer;
 
 			&:focus-visible,
 			&:hover {
-				opacity: 0.8;
-			}
+			opacity: 0.8;
+		}
 
 			&:active {
-				opacity: 1;
-			}
+			opacity: 1;
 		}
 	}
+}
 
 	.header-badge {
-		font-weight: 500;
-		font-size: 16px;
-		line-height: 24px;
-		color: var(--neutral500);
-	}
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	color: var(--neutral500);
+}
 `;
 
 const TermDefinitionBody = styled.div`
@@ -110,7 +112,10 @@ const TermDefinitionFooter = styled.div`
 
 interface IGlossaryTermDefinition {
 	selectedTerm: ResponseItem;
-	termCoordinates: { left: number; top: number; right: number };
+	termCoordinates: { left: number; height: number; right: number; yPos: number };
+	handleCloseTermDefinition: () => void;
+	hasEnoughXSpace: boolean;
+	hasEnoughYSpace: boolean;
 }
 
 export const GlossaryTermDefinition = ({
@@ -137,8 +142,8 @@ export const GlossaryTermDefinition = ({
 						</div>
 					</div>
 					<div className="header-badge">
-						{selectedTerm?.glossary_sets.map((set) => (
-							<div key={set.glossary_set_id}>
+						{selectedTerm?.glossary_sets.map((set, index) => (
+							<div key={`${Date.now()}-${index}-${set.id}`}>
 								<span>
 									{set.icon} {set.name}
 								</span>

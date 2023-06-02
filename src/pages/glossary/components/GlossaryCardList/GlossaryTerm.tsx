@@ -17,21 +17,32 @@ const GlossaryTermContainer = styled.div`
 	}
 `;
 
+function getNodePositionRelativeToDocument(node: any) {
+	let position = 0;
+	while (node) {
+		position += node.offsetTop;
+		node = node.offsetParent;
+	}
+	return position;
+}
+
 interface IGlossaryTermProps {
 	termDefinition: ResponseItem;
 }
 
 export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 	const [showTermDefinition, setShowTermDefinition] = useState(false);
-	const [termCoordinates, setTermCoordinates] = useState();
+	const [termCoordinates, setTermCoordinates] = useState({ left: 0, right: 0, yPos: 0, height: 0 });
 	const [hasEnoughXSpace, setHasEnoughXSpace] = useState(true);
 	const [hasEnoughYSpace, setHasEnoughYSpace] = useState(true);
 
-	const handleOpenTermDefinition = (e) => {
+	const handleOpenTermDefinition = (e: any) => {
 		const rect = e.target.getBoundingClientRect();
-		setTermCoordinates({ left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom });
-		const rectMinusXPadding = rect.left - 16;
-		const rectMinusYPadding = rect.bottom - 8;
+		const { left, right, bottom, height } = rect;
+		const yPos = getNodePositionRelativeToDocument(e.target);
+		setTermCoordinates({ left, right, yPos, height });
+		const rectMinusXPadding = left - 16;
+		const rectMinusYPadding = bottom + 8;
 		const remainingXSpace = window.innerWidth - rectMinusXPadding;
 		const remainingYSpace = window.innerHeight - rectMinusYPadding;
 
