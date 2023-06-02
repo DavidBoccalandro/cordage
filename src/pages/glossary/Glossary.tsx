@@ -7,7 +7,20 @@ import { debounce } from 'lodash';
 export const Glossary = () => {
 	const [activeLetter, setActiveLetter] = useState<string>('A');
 	const [glossaryState, setGlossaryState] = useState<Map<string, ResponseItem[]>>();
+	const [availableLetters, setAvailableLetters] = useState<string[]>([])
 	const { glossary } = useContext<{ glossary: Map<string, ResponseItem[]> | undefined }>(glossaryContext);
+
+	const getAvailableLetters = useCallback((updatedGlossary: Map<string, ResponseItem[]>) => {
+		const availableLetters: (string | undefined)[] = Array.from(updatedGlossary.keys()).map((letter) => {
+			if (updatedGlossary.get(letter)?.length) {
+				return letter;
+			}
+			return undefined;
+		}).filter(l => l);
+
+		setAvailableLetters(availableLetters as string[]);
+	}, []);
+
 	const createFilterState = useCallback(
 		(searchString: string) => {
 			if (!glossary) return;
@@ -15,9 +28,11 @@ export const Glossary = () => {
 			if (searchString === '') {
 				setActiveLetter('A');
 				setGlossaryState(glossary);
+				getAvailableLetters(glossary);
 				return;
 			}
 
+			const filteredLetters = [];
 			const filteredGlossary = new Map<string, ResponseItem[]>();
 
 			for (const [letter, items] of glossary.entries()) {
@@ -25,10 +40,12 @@ export const Glossary = () => {
 
 				if (filteredItems.length) {
 					filteredGlossary.set(letter, filteredItems);
+					filteredLetters.push(letter);
 				}
 			}
 
 			setActiveLetter(filteredGlossary.keys().next().value);
+			getAvailableLetters(filteredGlossary);
 			setGlossaryState(filteredGlossary);
 		},
 		[glossary]
@@ -41,14 +58,26 @@ export const Glossary = () => {
 		[debouncedGlossaryFilter]
 	);
 	useEffect(() => {
-		setGlossaryState(glossary);
-		setActiveLetter('A');
-		createFilterState('');
-	}, [glossary, createFilterState]);
+		if (glossary) {
+			setGlossaryState(glossary);
+			getAvailableLetters(glossary);
+		}
+	}, [glossary]);
 
-	function handlePaginationClick(letter: string) {
+	const handleClickScroll = (letter: string) => {
 		setActiveLetter(letter);
-	}
+		const element = document.getElementById(`title-${letter}`);
+		const headerOffset = 45;
+		if (element) {
+			const elementPosition = element.getBoundingClientRect().top;
+			const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+			window.scrollTo({
+				top: offsetPosition,
+				behavior: "smooth"
+			});
+		}
+	};
 
 	return (
 		<>
@@ -58,15 +87,15 @@ export const Glossary = () => {
 					<GlossaryPagination
 						alphabet={glossary ? Array.from(glossary.keys()) : []}
 						activeLetter={activeLetter}
-						handleClick={handlePaginationClick}
-						disabledLetters={
-							glossary ? Array.from(glossary.keys()).filter((letter) => !glossary.get(letter)?.length) : []
-						}
+						handleClick={handleClickScroll}
+						enabledLetters={availableLetters}
 					/>
 					<GlossaryCardList glossary={glossaryState} activeLetter={activeLetter} />
 				</>
 			) : (
-				'Loading...'
+				<h1>
+					Loading...
+				</h1>
 			)}
 		</>
 	);

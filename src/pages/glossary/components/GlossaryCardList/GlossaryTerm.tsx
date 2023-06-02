@@ -34,9 +34,6 @@ export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 		const rectMinusYPadding = rect.bottom - 8;
 		const remainingXSpace = window.innerWidth - rectMinusXPadding;
 		const remainingYSpace = window.innerHeight - rectMinusYPadding;
-		console.log('remainingXSpace', remainingXSpace);
-		console.log('remainingYSpace', remainingYSpace);
-		console.log('scroll height', document.body.scrollHeight);
 
 		if (remainingXSpace < 526) {
 			setHasEnoughXSpace(false);

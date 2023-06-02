@@ -120,8 +120,6 @@ export const GlossaryTermDefinition = ({
 	hasEnoughXSpace,
 	hasEnoughYSpace,
 }: IGlossaryTermDefinition) => {
-	console.log('termCoordinates', termCoordinates);
-	console.log('hasEnoughYSpace', hasEnoughYSpace);
 	return (
 		<>
 			<BackDrop onClick={() => handleCloseTermDefinition()}></BackDrop>

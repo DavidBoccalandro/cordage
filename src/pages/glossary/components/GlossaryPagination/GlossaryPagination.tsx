@@ -7,6 +7,7 @@ const GlossaryPaginationContainer = styled.ul`
 	justify-content: center;
 	margin-bottom: 24px;
 	list-style: none;
+	background-color: var(--slate50);
 `;
 
 const LetterContainer = styled.li`
@@ -54,24 +55,25 @@ interface IGlossaryPaginationProps {
 	alphabet: string[];
 	activeLetter: string | null;
 	handleClick: (letter: string) => void;
-	disabledLetters: string[];
+	enabledLetters: string[];
 }
 
 export const GlossaryPagination = ({
 	alphabet,
 	activeLetter,
 	handleClick,
-	disabledLetters,
+	enabledLetters,
 }: IGlossaryPaginationProps) => {
+
 	return (
 		<GlossaryPaginationContainer>
 			{alphabet.map((letter: string) => (
 				<LetterContainer
-					className={`${activeLetter === letter ? 'active' : ''} ${disabledLetters.includes(letter) ? 'disabled' : ''}`}
+					className={`${activeLetter === letter ? 'active' : ''} ${!enabledLetters.includes(letter) ? 'disabled' : ''}`}
 					onClick={() => handleClick(letter)}
 					key={`letter-${letter}`}
 				>
-					<a href={`#title-${letter}`}>{letter}</a>
+					<a>{letter}</a>
 				</LetterContainer>
 			))}
 		</GlossaryPaginationContainer>
