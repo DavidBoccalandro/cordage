@@ -34,7 +34,6 @@ const TermDefinitionContainer = styled.div<{
 	background: var(--white);
 	border-radius: 8px;
 	box-shadow: 0px 8px 10px -6px #0000001a;
-	overflow-y: auto;
 	padding: 16px 24px 24px 24px;
 	gap: 16px;
 	z-index: 7;
