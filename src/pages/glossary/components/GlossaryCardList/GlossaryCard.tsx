@@ -10,7 +10,6 @@ const GlossaryCardContainer = styled.div`
 `;
 
 const GlossaryCardLetter = styled.div`
-	padding: 0 8px;
 	width: 38px;
 	height: 41px;
 
@@ -21,7 +20,7 @@ const GlossaryCardLetter = styled.div`
 		font-size: 32px;
 		line-height: 41px;
 		color: var(--neutral800);
-		margin: 8px 16px;
+		margin: 0 8px;
 	}
 
 	&.active-card span {
