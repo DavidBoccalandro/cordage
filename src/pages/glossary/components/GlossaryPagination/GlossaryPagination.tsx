@@ -5,7 +5,7 @@ const GlossaryPaginationContainer = styled.ul`
 	top: 0;
 	display: flex;
 	justify-content: center;
-	margin-bottom: 24px;
+	padding: 24px 0;
 	list-style: none;
 	background-color: var(--slate50);
 `;
