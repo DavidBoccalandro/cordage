@@ -15,6 +15,11 @@ const GlossaryTermContainer = styled.div`
 		overflow: hidden;
 		text-overflow: ellipsis;
 	}
+
+	:hover {
+		background: var(--gray100);
+		border-radius: 8px;
+	}
 `;
 
 function getNodePositionRelativeToDocument(node: any) {
