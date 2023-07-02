@@ -10,6 +10,7 @@ const GlossaryTermContainer = styled.div`
 	color: var(--neutral800);
 	padding: 8px 16px;
 	white-space: nowrap;
+	margin: 4px 0;
 
 	p {
 		overflow: hidden;
@@ -19,6 +20,7 @@ const GlossaryTermContainer = styled.div`
 	:hover {
 		background: var(--gray100);
 		border-radius: 8px;
+		cursor: pointer;
 	}
 `;
 

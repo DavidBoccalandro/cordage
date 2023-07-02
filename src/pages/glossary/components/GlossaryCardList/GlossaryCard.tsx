@@ -12,6 +12,7 @@ const GlossaryCardContainer = styled.div`
 const GlossaryCardLetter = styled.div`
 	width: 38px;
 	height: 41px;
+	margin-bottom: 20px;
 
 	span {
 		font-family: 'Lora';
