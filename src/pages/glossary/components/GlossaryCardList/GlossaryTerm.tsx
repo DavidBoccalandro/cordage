@@ -11,11 +11,8 @@ const GlossaryTermContainer = styled.div`
 	padding: 8px 16px;
 	white-space: nowrap;
 	margin: 4px 0;
-
-	p {
-		overflow: hidden;
-		text-overflow: ellipsis;
-	}
+	overflow: hidden;
+	text-overflow: ellipsis;
 
 	:hover {
 		background: var(--gray100);
@@ -47,6 +44,7 @@ export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 		const rect = e.target.getBoundingClientRect();
 		const { left, right, bottom, height } = rect;
 		const yPos = getNodePositionRelativeToDocument(e.target);
+		console.log(yPos)
 		setTermCoordinates({ left, right, yPos, height });
 		const rectMinusXPadding = left - 16;
 		const rectMinusYPadding = bottom + 8;
@@ -74,7 +72,7 @@ export const GlossaryTerm = ({ termDefinition }: IGlossaryTermProps) => {
 	return (
 		<>
 			<GlossaryTermContainer onClick={handleOpenTermDefinition}>
-				<p>{termDefinition.term}</p>
+				{termDefinition.term}
 			</GlossaryTermContainer>
 			{showTermDefinition && (
 				<GlossaryTermDefinition

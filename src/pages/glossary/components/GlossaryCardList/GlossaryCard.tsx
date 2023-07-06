@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import { GlossaryTerm } from './GlossaryTerm';
 import { Element } from 'react-scroll';
 import { ResponseItem } from '../../../../services/glossary.interface';
+import { useEffect, useRef } from 'react';
 
 const GlossaryCardContainer = styled.div`
 	display: flex;
@@ -34,6 +35,12 @@ const GlossaryTermsContainer = styled.div`
 	gap: 16px;
 `;
 
+const GlossaryTermsWrapper = styled.div`
+	display: inline-block;
+	width: 100%;
+	margin: 4px 0;
+`;
+
 interface IGlossaryCardProps {
 	cardData: ResponseItem[] | undefined;
 	letter: string;
@@ -52,7 +59,9 @@ export const GlossaryCard = ({ cardData, letter, activeLetter }: IGlossaryCardPr
 				</GlossaryCardLetter>
 				<GlossaryTermsContainer>
 					{cardData?.map((item) => (
-						<GlossaryTerm key={item.id} termDefinition={item} />
+						<GlossaryTermsWrapper key={item.id}>
+							<GlossaryTerm termDefinition={item} />
+						</GlossaryTermsWrapper>
 					))}
 				</GlossaryTermsContainer>
 			</Element>

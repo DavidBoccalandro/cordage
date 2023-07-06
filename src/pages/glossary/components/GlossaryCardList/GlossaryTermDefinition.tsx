@@ -33,17 +33,17 @@ const TermDefinitionContainer = styled.div<{
 	max-height: 370px;
 	background: var(--white);
 	border-radius: 8px;
-	box-shadow: 0px 8px 10px -6px #0000001a;
+	box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.10), 0px 8px 10px -6px rgba(0, 0, 0, 0.10);
 	padding: 16px 24px 24px 24px;
 	gap: 16px;
 	z-index: 7;
 	left: ${({ modalPosition, hasEnoughXSpace }) => hasEnoughXSpace && `${modalPosition.left}px;`};
 	right: ${({ modalPosition, hasEnoughXSpace }) => !hasEnoughXSpace && `${window.innerWidth - modalPosition.right}px`};
-	top: ${({ modalPosition, hasEnoughYSpace }) => hasEnoughYSpace && `${modalPosition.yPos + modalPosition.height + 8}px`};
+	top: ${({ modalPosition, hasEnoughYSpace }) => hasEnoughYSpace && `${modalPosition.yPos + modalPosition.height - 36}px`};
 	bottom: ${({ modalPosition, hasEnoughYSpace }) => {
 		if (hasEnoughYSpace) return;
 		const result = modalPosition.yPos - window.innerHeight;
-		return `${(result * -1) + 8}px;`;
+		return `${(result * -1) - 36}px;`;
 	}};
 
 	animation: ${termDefinitionEnter} 300ms ease-in;
@@ -81,6 +81,8 @@ gap: 8px;
 }
 
 	.header-badge {
+	display: flex;
+	gap: 16px;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 24px;

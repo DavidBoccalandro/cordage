@@ -3,6 +3,7 @@ import { GlossaryCardList, GlossaryHero, GlossaryPagination } from './components
 import { ResponseItem } from '../../services/glossary.interface';
 import { glossaryContext } from '../../context/glossaryContext';
 import { debounce } from 'lodash';
+import { animateScroll as scroll } from 'react-scroll';
 
 export const Glossary = () => {
 	const [activeLetter, setActiveLetter] = useState<string>('A');
@@ -67,17 +68,20 @@ export const Glossary = () => {
 	const handleClickScroll = (letter: string) => {
 		setActiveLetter(letter);
 		const element = document.getElementById(`title-${letter}`);
-		const headerOffset = 45;
+		const headerOffset = 90;
+
 		if (element) {
 			const elementPosition = element.getBoundingClientRect().top;
 			const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
 
-			window.scrollTo({
-				top: offsetPosition,
-				behavior: "smooth"
+			scroll.scrollTo(offsetPosition, {
+				duration: 1000,
+				delay: 0,
+				smooth: 'easeInOutQuart'
 			});
 		}
 	};
+
 
 	return (
 		<>

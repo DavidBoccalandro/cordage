@@ -9,6 +9,7 @@ const GlossaryCardListContainer = styled.div`
 	padding: 32px 16px;
 	box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1), 0px 1px 3px rgba(0, 0, 0, 0.1);
 	border-radius: 8px;
+	background: white;
 
 	h1.no-results {
 		text-align: center;
