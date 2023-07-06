@@ -2,7 +2,6 @@ import styled from 'styled-components';
 import { GlossaryTerm } from './GlossaryTerm';
 import { Element } from 'react-scroll';
 import { ResponseItem } from '../../../../services/glossary.interface';
-import { useEffect, useRef } from 'react';
 
 const GlossaryCardContainer = styled.div`
 	display: flex;

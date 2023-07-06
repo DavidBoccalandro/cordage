@@ -1,0 +1,2003 @@
+[
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469d8643-6329-49d0-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Absolute phrase",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-23459-44340-9e38-9fe44934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Adages",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469erd8643-6329-49d0-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Adoption",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-44340-9e38-9f01982934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Adjetival",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0934759-6329-49d0-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Advervial",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-44340-9e38-5859444934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Affix",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469d43-6329-49d0-9e44338-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Alliteration",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-44340-9e38-09809593",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Allusion",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "09842384-6329-49d0-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Alternate claim",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "9843034-23459-44340-9e38-9fe44934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Analogy",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "3039erd8643-6329-49d0-9e38-48902342",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Anecdote",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-eeee224-9e38-9f01982934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Aphorism",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "3444759-6329-4556-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Argument",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-44340-9e38-09387483",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Audience",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0972340972-6329-49d0-9e44338-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Author's purpose",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-44340-098310982-09809593",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Autobiography",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469d8643-6329-545466-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Biography",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0908843-23459-44340-9e38-098123",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Blending",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "'098203948'-6329-49d0-9e38-098024934",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Cause and effect",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d809239643-6329-44340-09834-9f01982934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Central message",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0934759-6329-098098123-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Chronology",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "098123-6329-44340-230984-e239048098",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Claim",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "123930-6329-49d0-9e44338-09823967",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Clause",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8545643-6329-44e343340-9e38-09843",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Coherence",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "09842384-6329-49d0-08902934-98932",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Colaborative conversations",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "532343-23459-44340-9e38-09809182",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Comparative adjectives and adverbs",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "09356-6329-49d0-9e38-48902342",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Comparison and contrast",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-23234-9e38-9f01982934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Concrete words and phrases",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "5465-6329-4556-0978908-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Conflict",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-53409-44340-9e38-09387483",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Conjunctive adverb",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0972340972-6329-49d0-23454-0981324",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Connotation",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "34900d8643-6329-44340-098310982-0193475",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Consonant-Vowel-Consonant",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469d86453443-6329-49d0-9e38-038475",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Context",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-23459-44340-9e38-9fe44934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Conventions",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "129765-6329-49d0-9e38-0299856",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Coordinating conjunction",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-098123-44340-9e66589238-9f014f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Correlative conjunction",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0934759-6329-09183-9e38-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Decoding",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-0936573-44340-9e38-09383",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Demonstratives",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "469d43-06294-49d0-9e44338-098123",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Denotation",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "3428643-6329-09383-9e38-09809593",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Depedent clause",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "432976-6329-49d0-9e38-0983475",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Derivational suffix",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "123098-23459-44340-00980234-9fe44934f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Description",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "09285685-2323-49d0-9e38-48902342",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Detail",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "098-6329-234234-9e38-9f019829345465f473",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Determiner",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "3444009759-6329-4556-32323-9fe44934f173",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Dialect",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Alejandra Aguilar Escobar"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "⚙",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "MoSed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Operation",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "349d8643-6329-09834-9e38-09387483",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Dialogue",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Robert Martínez Gómez"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🦺",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Quality",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                },
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "0972340972-0976-49d0-9e44338-09834",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Dictating",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Christian López Madrid"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "098378-6329-44340-098310982-65464",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Domain specific vocabulary",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "098378-098134-44340-65456-65464",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Drama",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    } ,
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "098378-6329-09234-654397645-65464",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "Evolution",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    },
+    {
+        "definition": "Sed id ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.",
+        "glossary_sets": [
+                {
+                    "color": "FFEDD5",
+                    "icon": "🗂",
+                    "id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "inserted_at": "2023-05-03T22:25:14.859316",
+                    "organization_id": "ada39249-f49a-4047-8243-fa5545bbbe96",
+                    "description": "ligula mollis, iaculis nulla vel, egestas dui. Donec tempus vulputate risus, eget dapibus risus vestibulum id. Duis mi leo, condimentum at tortor viverra, volutpat maximus est. Sed commodo tincidunt ante, a egestas tellus malesuada sit amet. Praesent lacinia euismod ultrices. Cras eu erat efficitur, convallis tortor ac, ornare purus. Nullam eu interdum nulla, eget hendrerit risus.nos",
+                    "glossary_set_id": "4b03048c-8022-4a4f-bb0f-15dca1422643",
+                    "name": "Norm-ISO 17025",
+                    "type": "auto",
+                    "updated_at": "2023-05-03T22:25:14.864187",
+                    "user_id": "e949756f-4f47-4fee-8f5b-13d52c48755b"
+                }
+                
+            ],
+        "glossary_term_id": "ffc8e113-dfb3-4208-a36c-e71f0cad2ac1",
+        "id": "23232547-098134-23-65456-65464",
+        "inserted_at": "2023-05-03T22:35:39.663641",
+        "language": "ES",
+        "term": "External customer",
+        "type": "manual",
+        "updated_at": "2023-05-03T22:35:39.663641",
+        "definition_by": "Isabel Rodríguez Roldan"
+    }
+]
