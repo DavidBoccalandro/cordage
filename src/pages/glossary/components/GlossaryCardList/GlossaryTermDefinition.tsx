@@ -1,6 +1,6 @@
+import { PiPencilSimple } from 'react-icons/pi';
+import { RiDeleteBinLine } from 'react-icons/ri';
 import styled, { keyframes } from 'styled-components';
-import EditIcon from '/src/assets/icons/EditIcon.svg';
-import DeleteIcon from '/src/assets/icons/DeleteIcon.svg';
 import { ResponseItem } from '../../../../services/glossary.interface';
 
 const BackDrop = styled.div`
@@ -66,17 +66,28 @@ gap: 8px;
 		margin-top: 2px;
 	}
 
-	div.edition-buttons img {
-		cursor: pointer;
+	div.edition-buttons {
+		display: flex;
+
+		div.edition-buttons-edit,
+		div.edition-buttons-delete{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			padding: 8px;
+			border-radius: 50%;
+			cursor: pointer;
+			font-size: 20px;
 
 			&:focus-visible,
 			&:hover {
-			opacity: 0.8;
-		}
+				background-color: var(--gray100);
+			}
 
 			&:active {
-			opacity: 1;
-		}
+				color: var(--orange500);
+			}
+		} 
 	}
 }
 
@@ -138,8 +149,12 @@ export const GlossaryTermDefinition = ({
 					<div className="header-title">
 						<h2>{selectedTerm.term}</h2>
 						<div className="edition-buttons">
-							<img src={EditIcon} alt="Edit Icon" />
-							<img src={DeleteIcon} alt="Delete Icon" />
+							<div className="edition-buttons-edit">
+								<PiPencilSimple />
+							</div>
+							<div className="edition-buttons-delete">
+								<RiDeleteBinLine />
+							</div>
 						</div>
 					</div>
 					<div className="header-badge">
