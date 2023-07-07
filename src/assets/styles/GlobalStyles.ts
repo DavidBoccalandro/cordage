@@ -189,6 +189,30 @@ export const GlobalStyleCordage = createGlobalStyle`
         user-select: none;  */
     }
 
+    * {
+    /* Scroll Styles */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+            background-color: var(--orange100);
+        }
+        
+        ::-webkit-scrollbar-track {
+            border-radius: 5px;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            border-radius: 5px;
+            background-color: var(--celeste600);
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: var(--celeste300);
+        }
+    
+        scroll-behavior: smooth;
+    }
+
     html{
         font-size: 62.5%;
     } 
