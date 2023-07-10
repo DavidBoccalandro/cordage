@@ -4,7 +4,7 @@ import { MainContainer, Navbar } from '../components'
 
 function AppRouter() {
   return (
-    <Router>
+    <Router basename={import.meta.env.DEV ? '/' : '/cordage/'}>
       <Navbar />
       <MainContainer>
         <Routes>
